@@ -1,0 +1,1 @@
+# please do not scrape this site aggressively. Source code is available at https://github.com/awesome-selfhosted/awesome-selfhosted-html. Raw data is available at https://github.com/awesome-selfhosted/awesome-selfhosted-data
